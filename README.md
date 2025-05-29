@@ -17,6 +17,7 @@ Lets catch up on [X](https://x.com/koomekelvink) or [linkedIn](https://www.linke
     - [ ] Traversal
 
 **Day 2**
+
 2. [ ] Linked List and its complexity 
 
     - [ ] Insert 
@@ -239,6 +240,7 @@ Lets catch up on [X](https://x.com/koomekelvink) or [linkedIn](https://www.linke
 29. [ ] Solve 30 DSA problems
 
 **Day 30**
+
 30. [ ] Solve 30 DSA problems
 
  
@@ -260,9 +262,6 @@ Lets catch up on [X](https://x.com/koomekelvink) or [linkedIn](https://www.linke
 
  
 
-
-
- Swap bits
 
 
 
