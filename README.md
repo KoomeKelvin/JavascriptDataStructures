@@ -2,19 +2,21 @@
 
 This is a **30 Day Data Structure challenge** where I will dive into the intricancies of data structures
 using Javascript as the language of choice. I will show up every day and push code with the aim of 
-covering DS in depth. The major resources that I will be using for this challenge include [Free code camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6) [trekhleb Work on data strucutres](https://github.com/trekhleb/javascript-algorithms), [Hacker Rank](www.hackerrank.com), [Interview Bit](www.interviewbit.com) [Geeksforgeeks](www.geeksforgeeks.org) [Okso for diagrams](https://okso.app/) among other resources.
+covering DS in depth. The major resources that I will be using for this challenge include [Free code camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6) [trekhleb Work on data strucutres](https://github.com/trekhleb/javascript-algorithms), [Hacker Rank](www.hackerrank.com), [Interview Bit](www.interviewbit.com) [Geeksforgeeks](https://www.geeksforgeeks.org/) [Okso for diagrams](https://okso.app/) among other resources.
 
 Lets catch up on [X](https://x.com/koomekelvink) or [linkedIn](https://www.linkedin.com/in/koome-kelvin/)
 
 ## The end goal is to be able to crack any Javascript coding challenge as well as elevate problem solving skills
 
 **Day 1**
-1. [ ] Array and its complexity 
+1. [x] Array and its complexity 
 
-    - [ ] Insert 
-    - [ ] Delete 
-    - [ ] Search
-    - [ ] Traversal
+    - [x] Insert 
+    - [x] Delete 
+    - [x] Search
+    - [x] Traversal
+    
+    (Check code)["./Day1/README.md"]
 
 **Day 2**
 
