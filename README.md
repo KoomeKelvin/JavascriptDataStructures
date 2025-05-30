@@ -16,7 +16,7 @@ Lets catch up on [X](https://x.com/koomekelvink) or [linkedIn](https://www.linke
     - [x] Search
     - [x] Traversal
     
-    (Check code)["./Day1/README.md"]
+    (Check code)["./src/Day1/README.md"]
 
 **Day 2**
 

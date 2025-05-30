@@ -29,7 +29,7 @@ function insertToArrayUsingFor(ageToInsert, index, ageArray){
     return ageArray[index];
 }
 
-/**------------------------------------------------------------------------
+/**----------x@koomekelvink------------------------------------------------
  * deleteFromArray - function insert an element to an array
  * 
  * @param {number} index
