@@ -9,23 +9,24 @@ Lets catch up on [X](https://x.com/koomekelvink) or [linkedIn](https://www.linke
 ## The end goal is to be able to crack any Javascript coding challenge as well as elevate problem solving skills
 
 **Day 1**
+
 1. [x] Array and its complexity 
 
     - [x] Insert 
     - [x] Delete 
     - [x] Search
     - [x] Traversal
-    
-    (Check code)["./src/Day1/README.md"]
+    [Check code](./src/Day1/README.md)
 
 **Day 2**
 
-2. [ ] Linked List and its complexity 
+2. [x] Linked List and its complexity 
 
-    - [ ] Insert 
-    - [ ] Delete 
-    - [ ] Search
-    - [ ] Traversal
+    - [x] Insert 
+    - [x] Delete 
+    - [x] Search
+    - [x] Traversal
+    [Check code](./src/Day2/README.md)
 
 **Day 3**
 
