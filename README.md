@@ -16,7 +16,7 @@ Lets catch up on [X](https://x.com/koomekelvink) or [linkedIn](https://www.linke
     - [x] Delete 
     - [x] Search
     - [x] Traversal
-    [Check code](./src/Day1/README.md)
+    [Check](./src/Day1/README.md)
 
 **Day 2**
 
@@ -26,16 +26,17 @@ Lets catch up on [X](https://x.com/koomekelvink) or [linkedIn](https://www.linke
     - [x] Delete 
     - [x] Search
     - [x] Traversal
-    [Check code](./src/Day2/README.md)
+    [Check](./src/Day2/README.md)
 
 **Day 3**
 
-3. [ ] Strings and its complexity 
+3. [x] Strings and its complexity 
 
-    - [ ] Insert 
-    - [ ] Delete 
-    - [ ] Search
-    - [ ] Traversal
+    - [x] Insert 
+    - [x] Delete 
+    - [x] Search
+    - [x] Traversal
+     [Check](./src/Day3/README.md)
 
 **Day 4**
 
