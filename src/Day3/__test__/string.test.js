@@ -1,6 +1,6 @@
 const {traverseString, inToString, deleteInString, searchInString } = require('../string.js');
 
-
+                                                // X @koomekelvink
 let firstName;
 
 beforeEach(()=>{
@@ -13,9 +13,9 @@ test('traverses  a string', ()=>{
 
 test('insert character to string at a position', ()=>{
     let position = 0;
-    expect(inToString("K", position = 0, firstName)).toEqual("KKoome");
+    expect(inToString("K", position, firstName)).toEqual("KKoome");
     position = 3;
-    expect(inToString("K", position = 3, firstName)).toEqual("KooKme");
+    expect(inToString("K", position, firstName)).toEqual("KooKme");
 });
 
 test('delete character to string at a position', ()=>{

@@ -40,16 +40,17 @@ Lets catch up on [X](https://x.com/koomekelvink) or [linkedIn](https://www.linke
 
 **Day 4**
 
-4. [ ] Stack and its complexity 
+4. [x] Queue and its complexity 
 
-    - [ ] Insert 
-    - [ ] Delete 
-    - [ ] Search
-    - [ ] Traversal
+    - [x] Checking queue length.
+    - [x] Adding to the queue. 
+    - [x] Checking next item to process.
+    - [x] Processing the queue.
+    [Check](./src/Day4/README.md)
      
 **Day 5**
 
-5. [ ] Queue and its complexity 
+5. [ ] Stack and its complexity 
 
     - [ ] Insert 
     - [ ] Delete 
