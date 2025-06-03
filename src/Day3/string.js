@@ -1,8 +1,8 @@
 
 /**
- * lengthOfString returns length of string
+ * traverseString returns string
  * 
- * @param {string} firstName 
+ * @param {string} firstName String to traverse
  * @returns {string} of firstName without leading space
  */
 function traverseString(firstName){
@@ -29,7 +29,7 @@ function inToString(letter, position, firstName){
  * deleteInString 
  * 
  * @param {number} position  to insert at
- * @param {string} "string" to delete from
+ * @param {string} firstName string to delete from
  * @returns {string} string with deleted data
  */
 function deleteInString(position, firstName)
@@ -43,7 +43,7 @@ function deleteInString(position, firstName)
  * 
  * @param {character} searchFor the item to look for 
  * @param {string} firstName string to look for item
- * @returns {*} truthy or falsy value
+ * @returns {boolean} true or false value
  */
 
 function searchInString(searchFor, firstName){

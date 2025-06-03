@@ -50,13 +50,14 @@ Lets catch up on [X](https://x.com/koomekelvink) or [linkedIn](https://www.linke
      
 **Day 5**
 
-5. [ ] Stack and its complexity 
+5. [x] Stack and its complexity 
 
-    - [ ] Insert 
-    - [ ] Delete 
-    - [ ] Search
-    - [ ] Traversal
-
+    - [x] check stack height 
+    - [x] Add element to the stack push 
+    - [x] remove element from stack pop
+    - [x] return top element peek
+    [Check](./src/Day4/README.md)
+    
 **Day 6**
 
 6. [ ] Sorting and its complexity 
@@ -203,10 +204,10 @@ Lets catch up on [X](https://x.com/koomekelvink) or [linkedIn](https://www.linke
     - [ ] Implement a Trie
     - [ ] Insert/Search/Prefix matching
     - [ ] Word Dictionary with Wildcards
-    - [] Basic implementation (with path compression & union by rank)
-    - [] Detect cycle in an undirected graph
-    - [] Number of Connected Components
-    - [] Kruskal’s Minimum Spanning Tree
+    - [ ] Basic implementation (with path compression & union by rank)
+    - [ ] Detect cycle in an undirected graph
+    - [ ] Number of Connected Components
+    - [ ] Kruskal’s Minimum Spanning Tree
 
 **Day 21**
 
