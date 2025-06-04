@@ -60,12 +60,12 @@ Lets catch up on [X](https://x.com/koomekelvink) or [linkedIn](https://www.linke
     
 **Day 6**
 
-6. [ ] Sorting and its complexity 
+6. [x] Sorting and its complexity 
 
-    - [ ] Insertion sort 
-    - [ ] Merge Sort  
-    - [ ] Quick Sort
-    - [ ] Heap Sort
+    - [x] Insertion sort 
+    - [x] Merge Sort  
+    - [x] Quick Sort
+    - [x] Heap Sort
 
 **Day 7**
 
