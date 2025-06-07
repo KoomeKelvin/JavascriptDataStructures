@@ -38,7 +38,7 @@ class Queue{
     }
 }
 
-let elementToAdd;
+let elementToAdd, taskQueue;
 beforeEach(()=>{
     taskQueue = new Queue();
 });

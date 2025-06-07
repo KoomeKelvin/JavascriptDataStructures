@@ -45,5 +45,6 @@ test('checks that element 45 is found at index 2', ()=> {
 });
 
 test('it checks that element 45 is found at index 2 uses recursion', ()=> {
-    expect(binarySearchForElementUsingRecursion(age.sort(), element = 45, left = 0, right = age.length-1))
+    let element = 45, left = 0, right= age.length-1;
+    expect(binarySearchForElementUsingRecursion(age.sort(), element, left, right));
 });

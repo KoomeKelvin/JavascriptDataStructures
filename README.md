@@ -56,7 +56,7 @@ Lets catch up on [X](https://x.com/koomekelvink) or [linkedIn](https://www.linke
     - [x] Add element to the stack push 
     - [x] remove element from stack pop
     - [x] return top element peek
-    [Check](./src/Day4/README.md)
+    [Check](./src/Day5/README.md)
     
 **Day 6**
 
@@ -66,22 +66,25 @@ Lets catch up on [X](https://x.com/koomekelvink) or [linkedIn](https://www.linke
     - [x] Merge Sort  
     - [x] Quick Sort
     - [x] Heap Sort
+     [Check](./src/Day6/README.md)
 
 **Day 7**
 
-7. [ ] Sorting and its complexity 
+7. [x] Sorting and its complexity 
 
-    - [ ] Bucket Sort  
-    - [ ] Counting Sort  
-    - [ ] Radix Sort
-    - [ ] External Sort
+    - [x] Bucket Sort  
+    - [x] Counting Sort  
+    - [x] Radix Sort
+    - [x] External Sort
+     [Check](./src/Day7/README.md)
 
 **Day 8**
 
-8. [ ] Search
+8. [x] Search
 
-    - [ ] Linear Search  
-    - [ ] Binary Search
+    - [x] Linear Search  
+    - [x] Binary Search
+     [Check](./src/Day8/README.md)
 
 **Day 9**
 

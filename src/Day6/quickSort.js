@@ -12,7 +12,7 @@ function partitionArray(arr, low, high)
     let pivot = arr[high];
     let boundary = low -1;
 
-    for (k = low; k <= high-1; k++){
+    for (let k = low; k <= high-1; k++){
         if (arr[k] < pivot){
             boundary++;
             swap(arr, boundary, k);

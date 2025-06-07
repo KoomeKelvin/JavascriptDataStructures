@@ -3,7 +3,7 @@ const {traverseSinglyLinkedList, searchItemInSinglyLinkedList,
     insertNodeAt, linkedListToArray, deleteNodeAtEnd, deleteNodeAt, deleteNodeAtBeginning,}
      = require('../linkedList.js');
 
-let node0, node1, node2, node3, node4, node5, node6; 
+let node0, node1, node2, node3, node4, node5, node6, head; 
 class Node{
 
         constructor(data){
@@ -30,7 +30,8 @@ test('Checks if last item returned on the list is 60', ()=>{
 });
 
 test('search for 40 and return true', ()=>{
-    expect(searchItemInSinglyLinkedList(head, searchItem = 40)).toBe(true)
+    let searchItem = 40;
+    expect(searchItemInSinglyLinkedList(head, searchItem)).toBe(true)
 });
 
 test('find the length of the linked list', ()=>{
@@ -53,7 +54,8 @@ test('insertion node at end of the list', ()=>{
 
 test('insertion of node at a given position on the list', ()=>{
     node6 = new Node(70);
-    const insertedNode = insertNodeAt(node6, head, position = 2);
+    let position = 2;
+    const insertedNode = insertNodeAt(node6, head, position);
     expect(linkedListToArray(insertedNode)).toEqual([30, 40, 70, 50, 60]);
 });
 

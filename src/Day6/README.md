@@ -1,4 +1,4 @@
-## In Day Four We Looked at
+## In Day Six We Looked at
 
 - Why Quick Sort is generally preferred for in-place sorting.
 - Why Merge Sort is stable but uses more memory.
@@ -37,7 +37,7 @@
 
 ---
 
-### Three Quick Tips
+### Quick Tips
 
 - **Use Merge Sort when stability matters and memory isn't a constraint.**
 - **Use Quick Sort for general-purpose in-memory sorting when average speed is critical.**
