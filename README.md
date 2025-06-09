@@ -88,11 +88,11 @@ Lets catch up on [X](https://x.com/koomekelvink) or [linkedIn](https://www.linke
 
 **Day 9**
 
-9. [ ] Prime Numbers
+9. [x] Prime Numbers
 
-    - [ ] Sieve of Eratosthenes
-    - [ ] Primality test
-
+    - [x] Sieve of Eratosthenes
+    - [x] Primality test
+  [Check](./src/Day9/README.md)
 **Day 10**
 
 10. [ ] Strings

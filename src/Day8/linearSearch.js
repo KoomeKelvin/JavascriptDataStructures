@@ -1,6 +1,6 @@
 
 /**
- * @param {array} arr to search for 
+ * @param {array} arr to search from 
  * @param {*} item to search for
  * @returns {boolean} true or false 
  */
