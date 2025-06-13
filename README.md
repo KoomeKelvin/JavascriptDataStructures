@@ -95,12 +95,12 @@ Lets catch up on [X](https://x.com/koomekelvink) or [linkedIn](https://www.linke
   [Check](./src/Day9/README.md)
 **Day 10**
 
-10. [ ] Strings
+10. [x] Strings
 
-    - [ ] String searching
-    - [ ] Longest substring without repeating characters
-    - [ ] LCS
-    - [ ] Palindrome detection
+    - [x] String searching
+    - [x] Longest substring without repeating characters
+    - [x] LCS
+      [Check](./src/Day10/README.md)
      
 **Day 11**
 
